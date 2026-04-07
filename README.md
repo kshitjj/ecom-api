@@ -85,6 +85,7 @@ Ensure you have all this configure locally:
 - PostgreSQL (default port: 5432)
 - Redis (default port: 6379)
 - MinIO (default port: 9000, UI on port: 9001)
+
 Alternatively, You can deploy the services on Kubernetes and cluster and tweak the services to use `NodePort`.
 
 After doing either of the two, make sure to update the `.env.example` and rename it to `.env`
