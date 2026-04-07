@@ -93,4 +93,7 @@ After doing either of the two, make sure to update the `.env.example` and rename
 - [ ] Create project demo, setting up and explain each and every component of the project
 - [ ] Document deploying
 - [ ] Document Development
+- [ ] Github Actions
+- [ ] Pagination and Filtering on products
+- [ ] Swagger Docs for API
 
